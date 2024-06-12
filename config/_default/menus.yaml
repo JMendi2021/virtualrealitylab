@@ -16,6 +16,10 @@ main:
     url: gallery
     weight: 40
 
+  - name: Projects
+    url: projects
+    weight: 45
+
   - name: Opportunities
     url: opportunities
     weight: 50

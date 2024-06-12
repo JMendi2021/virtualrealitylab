@@ -6,6 +6,5 @@ type: landing
 
 sections:
   - block: home
-
 ---
 
